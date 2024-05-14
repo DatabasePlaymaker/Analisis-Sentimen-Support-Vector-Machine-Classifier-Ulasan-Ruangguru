@@ -1,2 +1,2 @@
 # Analisis-Sentimen-Support-Vector-Machine-Classifier-Ulasan-Ruangguru
-Sentiment analysis is a natural language processing (NLP) and machine learning technique for analyzing text data and classifying it based on its sentiment, such as positive, negative, or neutral. Using GooglePlay review dataset with model accuracy results reaching 65%. 20% Testing Data and 80% Training Data.
+Sentiment analysis is a natural language processing (NLP) and machine learning technique for analyzing text data and classifying it based on its sentiment, such as positive, negative, or neutral. Using GooglePlay review dataset with model accuracy results reaching 65% with three labels & 87% with two labels & 20% Testing Data and 80% Training Data.
